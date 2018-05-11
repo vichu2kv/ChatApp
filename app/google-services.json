@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "84990521540",
+    "firebase_url": "https://chatapp-8384c.firebaseio.com",
+    "project_id": "chatapp-8384c",
+    "storage_bucket": "chatapp-8384c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84990521540:android:c12f5e27b095bc57",
+        "android_client_info": {
+          "package_name": "com.example.viswa.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84990521540-03mcu76n6o3qhbprl3casnlnacpp7osu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viswa.chatapp",
+            "certificate_hash": "a1ff419e12a734489461f4474d3d094736a434b3"
+          }
+        },
+        {
+          "client_id": "84990521540-rvofku78r4cniv29uebr00e5ma27nvv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMokLol6Qb0NuBzo0pVROjMGSnZOxJdj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84990521540-rvofku78r4cniv29uebr00e5ma27nvv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
